@@ -11,8 +11,7 @@
 ## 👨‍💻 Why I Built This (The Context)
 
 I am a **Computer Science undergraduate (B.Tech CSE)** at **CVR College of Engineering, Hyderabad**.
-
-My journey began at **Little Flower High School (L.B. Nagar)** and **Narayana Junior College**, where I developed a deep fascination for systems architecture. Living in Hyderabad, I have witnessed how urban flooding disrupts communication channels. I realized that while volunteers are always ready to help, the **coordination gap** makes their efforts less effective.
+Living in Hyderabad, I have witnessed how urban flooding disrupts communication channels. I realized that while volunteers are always ready to help, the **coordination gap** makes their efforts less effective.
 
 ### 💡 The Inspiration
 This project was born during my preparation for the **JPMorgan Code for Good** initiative. I wanted to move beyond simple CRUD apps and build an **Enterprise-Grade System** that solves real logistical problems.
